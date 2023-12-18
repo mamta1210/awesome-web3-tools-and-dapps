@@ -1477,6 +1477,7 @@
 - [Moralis](https://moralis.io/) - Moralis is a top choice for creating web3 applications in one convenient place.
 - [Portals.fi](https://portals.fi) - Portals API offers the ability to bundle transactions, swap between different assets, and access real-time data for DeFi assets.
 - [Quicknode SDK](https://www.quicknode.com/guides/web3-sdks) - Quicknode is a tool for developing web3 applications.
+- [Starton](https://www.starton.com/) - Starton is a platform that provides developers with the most powerful and resilient tools for development, with a focus on performance.
 - [thirdweb](https://thirdweb.com/) - thirdweb is the top platform for developers who work with web3.
 
 ### Web3 Security Competitions
